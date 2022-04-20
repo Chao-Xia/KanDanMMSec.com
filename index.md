@@ -7,7 +7,7 @@
 
 主要研究方向为信息隐藏、多媒体安全等。以第一作者发表在TCSVT、IH&MMSec、ICIP等领域内重要期刊和会议上发表多篇论文。主持国家自然科学基金青年基金1项。CSIG数字媒体取证与安全专委会、CSIG视觉大数据专委会委员。
 
-邮箱：xiachao@besti.edu.cn
+邮箱：xiachao10@besti.edu.cn
 
 ### 刘亚奇
 <image src="liuyaqi.png" width="25%"></image><image src="liuyaqiwechat.png" width="25%"></image>
